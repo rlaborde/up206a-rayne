@@ -2,7 +2,7 @@
 **Rayne Laborde**
 
 >*Academic Paper:*  
->Harrell, Krystle N., "Homelessness in Portland, Oregon: An Analysis of Homeless Campsite Spatial Patterns and Spatial Relationships" (2019). Geography Masters Research Papers. 24. https://pdxscholar.library.pdx.edu/geog_masterpapers/24
+>Harrell, Krystle N., ["Homelessness in Portland, Oregon: An Analysis of Homeless Campsite Spatial Patterns and Spatial Relationships"](https://pdxscholar.library.pdx.edu/geog_masterpapers/24) (2019). Geography Masters Research Papers. 24.
 
 In “Homelessness in Portland, Oregon: An Analysis of Homeless Campsite Spatial Patterns and Spatial Relationships,” Krystle N. Harrell seeks to understand where homeless individuals seek temporary shelter across the city of Portland in order to inform new policies for engagement and support. Harrell argues that many current methods of homeless count “aggregation [do] not allow for in-depth analysis of homeless spatial patterns within a region, which is crucial to understanding local variations, or similarities.” Therefore, her research provides granular locational analysis of both campsites and specific urban features, like supportive services and transportation. Key research questions include 1. Where homeless campsites tend to cluster in the city of Portland, 2. How these clusters relate to urban features, and 3. What sub-neighborhood patterns of homeless spatial preferences can be identified.
 
